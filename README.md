@@ -14,7 +14,11 @@ STEP 1 :- Let’s start with the basic data exploration: Dataset consists of 20,
             overall_rating
             brand
             product_specifications
-From the product_cateogry_tree I selected a primary cateogry which is at the starting of tree  which will act as dependent variable .
+From the product_cateogry_tree I selected a primary cateogry which is at the starting of tree  which will act as dependent variable 
+[
+![image](https://user-images.githubusercontent.com/79022961/113734850-8bdf2680-96b0-11eb-814d-50a758cccdc3.png)
+](url)
+
 Apart from this I deleted All the other coloumns apart from description .
 Description will act as a independent variable .
 I deleted all the rows with the missing values in 'Description' and 'product cateogry' coloumn 
