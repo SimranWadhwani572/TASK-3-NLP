@@ -19,7 +19,7 @@ From the product_cateogry_tree I selected a primary cateogry which is at the sta
 ![image](https://user-images.githubusercontent.com/79022961/113734850-8bdf2680-96b0-11eb-814d-50a758cccdc3.png)
 ](url)
 </br>
-Apart from this I deleted All the other coloumns apart from description .</br>
+ I deleted All the other coloumns apart from description and product cateogry .</br>
 Description will act as a independent variable .</br>
 I deleted all the rows with the missing values in 'Description' and 'product cateogry' coloumn </br></br></br>
 
